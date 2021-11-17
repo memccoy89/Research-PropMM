@@ -26,3 +26,8 @@
   </ul>
  <p>My interviews would then investigate in detail the steps that select individuals took to reach the position they are in today in sports medicine. The results of these surveys and interviews can be presented in the form of an article. First, it will include a summary of the surveys, analyzed using simple statistics like mean, median, and mode. This will be done by categorizing the results and graphing them using pie charts, which can also be displayed in the article. Alongside this, there will be some personal commentary and discussion of the results as to what the most common route is and the most successful. After this, transcripts of the interviews will be included in the article. They would likely be somewhere between intelligent and edited. Their purpose is to be precise but still very true to what the interviewee initially said. This topic does not have a hypothesis associated with it; instead, it is exploratory, and as a researcher, I am searching for an answer or at least more knowledge. Hence the conclusion will state my findings as to the most common, successful, and highly recommended undergraduate studies to complete when pursuing a career in sports medicine.</p>
 </body>
+<body>
+ <h2>References</h2>
+ <p>Heron, N., & Malliaropoulos, N. G. (2012). International differences in sport medicine access and clinical management. <em>Muscles, Ligaments, and Tendons Journal</em>, 2(4), 248-252.</p>
+ <p>Madanat, R., Mäkinen, T. J., Ryan, D., Huri, G., Paschos, N., Vide, J., & FORTE writing committee. (2017). The current state of orthopaedic residency in 18 European countries. <em>International Orthopaedics</em>, (41), 681-687. 10.1007/s00264-017-3427-0</p>
+ </body>
